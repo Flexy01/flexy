@@ -1,7 +1,7 @@
 # 👋 Flexy
 This is where I open something open source and improve things 😋
 
-[![discord_social_eresbos](https://img.shields.io/badge/Discord-Eresbos%230001-6182e1)](https://discord.com/users/980871018673479710)
+[![discord_social_eresbos](https://img.shields.io/badge/Discord-Flexy%230001-6182e1)](https://discord.com/users/980871018673479710)
 [![discord_social_eresbos](https://img.shields.io/badge/Discord-Guild_Link-6182e1)](https://discord.gg/northside)
 
 <details>
