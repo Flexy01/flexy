@@ -2,7 +2,7 @@
 This is where I open something open source and improve things 😋
 
 [![discord_social_eresbos](https://img.shields.io/badge/Discord-Eresbos%230001-6182e1)](https://discord.com/users/980871018673479710)
-[![discord_social_eresbos](https://img.shields.io/badge/Discord-Guild_Link-6182e1)](https://discord.gg/ZS2TKFFadZ)
+[![discord_social_eresbos](https://img.shields.io/badge/Discord-Guild_Link-6182e1)](https://discord.gg/northside)
 
 <details>
   <summary>&nbsp; <b>Stats</b></summary>
@@ -19,7 +19,7 @@ This is where I open something open source and improve things 😋
 
   <details>
     <summary> &nbsp; &nbsp; &nbsp; <b>Discord Presence</b></summary>
-    <img src="https://lanyard-profile-readme.vercel.app/api/350976460313329665?bg=0d1117">
+    <img src="https://lanyard-profile-readme.vercel.app/api/980871018673479710?bg=0d1117">
   </details>
  </details>
  
